@@ -1,4 +1,4 @@
-# KANISHKA_OS : SYSTEM_PORTFOLIO_V1
+# KANISHKA : PORTFOLIO_V1
 
 ### PROJECT_MANIFEST
 This repository contains the source code for a terminal-emulated portfolio environment. Built with React and Vite, the application abstracts the traditional personal website into a high-fidelity Unix-style CLI. It is designed to reflect a deep-seated interest in low-level systems, memory management, and algorithmic efficiency.
